@@ -21,9 +21,6 @@ int main()
         cout << "Please enter a valid english alphabet " << endl;
         
     }
-    
-    
-    
-    
+
     return 0;
 }
